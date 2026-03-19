@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           {/* Copyright */}
           <div className="flex items-center gap-2 text-gray-400">
-            <span>© 2025 Your Name. Built with</span>
+            <span>© 2025 Vishal C B. Built with</span>
             <Heart className="w-4 h-4 text-red-500 fill-red-500" />
             <span>using Next.js</span>
           </div>

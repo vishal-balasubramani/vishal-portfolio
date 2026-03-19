@@ -88,7 +88,7 @@ export default function AboutPage() {
                   className="relative aspect-square rounded-2xl overflow-hidden border-2 border-gray-100 shadow-lg hover:shadow-xl transition-shadow group"
                 >
                   <Image
-                    src="/projects/leetcode.png"
+                    src="/projects/leetcode1.png"
                     alt="Vishal working"
                     fill
                     className="object-cover group-hover:scale-105 transition-transform duration-300"
@@ -153,7 +153,7 @@ export default function AboutPage() {
                   className="relative aspect-square rounded-2xl overflow-hidden border-2 border-gray-100 shadow-lg hover:shadow-xl transition-shadow group"
                 >
                   <Image
-                    src="/projects/team_work .jpg"
+                    src="/projects/image 4.jpeg"
                     alt="Vishal collaborating"
                     fill
                     className="object-cover group-hover:scale-105 transition-transform duration-300"
