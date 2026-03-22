@@ -108,7 +108,7 @@ export default function Hero() {
               </Link>
 
               <a
-                href="https://drive.google.com/file/d/1AzwwLV1G5gsvSDiKkltfhSOKndLeNgXc/view?usp=sharing"
+                href="https://drive.google.com/file/d/1LWNUOaHM5WarzfSkCG7DTd6ZNfmFK4fe/view?usp=sharing"
                 download
                 className="px-6 py-3 border-2 border-white/30 text-white rounded-xl font-semibold hover:bg-white/10 hover:scale-105 transition-all backdrop-blur-sm flex items-center gap-2"
               >

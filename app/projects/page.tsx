@@ -342,7 +342,7 @@ export default function ProjectsPage() {
                   </svg>
                 </Link>
                 <a
-                  href="https://drive.google.com/file/d/1AzwwLV1G5gsvSDiKkltfhSOKndLeNgXc/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1LWNUOaHM5WarzfSkCG7DTd6ZNfmFK4fe/view?usp=sharing"
                   download
                   className="px-8 py-4 border-2 border-white/30 text-white rounded-xl font-semibold hover:bg-white/10 transition-all"
                 >
